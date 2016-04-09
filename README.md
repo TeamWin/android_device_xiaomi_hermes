@@ -1,0 +1,1 @@
+TWRP device tree for Xiaomi Redmi Note 2 Hermes. CM build.
